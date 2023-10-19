@@ -1,0 +1,31 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  
+ 
+margin: 0;
+  
+ 
+padding: 0;
+}
+
+/* Estilizando cabeçalhos */
+h1 {
+  color: #333;
+}
+
+h2 {
+  color: #007acc;
+}
+
+/* Estilizando parágrafos */
+p {
+  
+ 
+font-size: 16px;
+  
+ 
+line-height: 1.5;
+}
+
+/* Estilizando links */
